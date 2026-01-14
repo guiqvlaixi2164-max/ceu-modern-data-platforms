@@ -12,6 +12,7 @@ Snowflake Setup:
 3) Set up Snowflake tables: https://dbtsetup.nordquant.com/
 
 dbt Setup
+
 4) Fork this repo and clone it to your PC: https://github.com/nordquant/dbt-student-repo
 5) Ensure you have a compatible Python Version: https://docs.getdbt.com/faqs/Core/install-python-compatibility (if you don't, install Python 3.13) 
 6) Install uv: https://docs.astral.sh/uv/getting-started/installation/
