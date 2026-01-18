@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../../../dbt-zero-to-hero/dbtlearn-snowflake-importer"
+		},
+		{
+			"path": "../../../dbt-zero-to-hero/courseware-dev"
 		}
 	],
 	"settings": {}
